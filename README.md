@@ -1,5 +1,4 @@
 # Entra21 - Full stack Java Course ☕
-Repository dedicated to front-end classes
 
 <br>
 
@@ -15,7 +14,7 @@ Repository dedicated to front-end classes
 - [x] HTML archive's structure;
 - [x] Comments;
 - [x] Header tags;
-- [ ] Body tags;
+- [x] Body tags;
 - [ ] Media tags;
 - [ ] Iframe tag;
 - [ ] Adding style;
