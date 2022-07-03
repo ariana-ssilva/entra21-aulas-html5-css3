@@ -2,7 +2,7 @@
 
 <br>
 
-🎨 Frontend - HTML5 and CSS3 🎨
+## 🎨 Frontend - HTML5 and CSS3 🎨
 
 ![Full stack Java course](/gif_img/cover_html_css.png)
 
