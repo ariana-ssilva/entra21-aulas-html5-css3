@@ -97,6 +97,8 @@ The `<p>` tag defines a paragraph.
 
 Browsers automatically add a single blank line before and after each `<p>` element.
 
+### Example 
+
 ```html
 <p style="text-align:right">This is some text in a paragraph.</p>
 ```
