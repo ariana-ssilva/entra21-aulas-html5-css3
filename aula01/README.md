@@ -69,7 +69,17 @@ The `<h1>` to `<h6>` tags are used to define HTML headings.
 <br>
 
 ### Example:
-<br>
+
+```html
+<h1>text h1</h1>
+<h2>text h2</h2>
+<h3>text h3</h3>
+<h4>text h4</h4>
+<h5>text h5</h5>
+<h6>text h6</h6>
+```
+
+Output:
 
 <h1>text h1</h1>
 <h2>text h2</h2>
@@ -77,6 +87,7 @@ The `<h1>` to `<h6>` tags are used to define HTML headings.
 <h4>text h4</h4>
 <h5>text h5</h5>
 <h6>text h6</h6>
+
 
 <br>
 
