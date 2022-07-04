@@ -11,7 +11,7 @@
 
 ## Practical Content ✍🏻
 
-- [x] HTML archive's structure;
+- [x] HTML document's structure;
 - [x] Comments;
 - [x] Header tags;
 - [x] Body tags;
