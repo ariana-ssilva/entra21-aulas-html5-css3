@@ -103,11 +103,157 @@ table, th, td {
 
 * The `<tfoot>` tag is used to group footer content in an HTML table.
 
+<br>
 
+## `<form>` tag
+> <form> is a HTML element to collect input data with containing interactive controls. It provides facilities to input text, number, values, email, password, and control fields such as checkboxes, radio buttons, submit buttons, etc., or in other words, form is a container that contains input elements like text, email, number, radio buttons, checkboxes, submit buttons, etc. Forms are generally used when you want to collect data from the user. 
 
-## Forms
+<br>
 
+### `<form>` elements
+These are the following HTML `<form>` elements:
 
+* `<label>`: It defines label for `<form>` elements.
 
+* `<input>`: It is used to get input data from the form in various types such as text, password, email, etc by changing its type.
+
+* `<button>`: It defines a clickable button to control other elements or execute a functionality.
+
+* `<select>`: It is used to create a drop-down list.
+
+* `<textarea>`: It is used to get input long text content.
+
+* `<fieldset>`: It is used to draw a box around other form elements and group the related data.
+
+* `<legend>`: It defines caption for fieldset elements.
+
+* `<datalist>`: It is used to specify pre-defined list options for input controls.
+
+* `<output>`: It displays the output of performed calculations.
+
+* `<option>`: It is used to define options in a drop-down list.
+
+* `<optgroup>`: It is used to define group-related options in a drop-down list.
+
+### Example
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GfG</title>
+</head>
+<body>
+  <form>
+    <fieldset>
+      <legend>Personal Details</legend>
+      <p>
+        <label>
+          Salutation
+          <br />
+          <select name="salutation">
+            <option>--None--</option>
+            <option>Mr.</option>
+            <option>Ms.</option>
+            <option>Mrs.</option>
+            <option>Dr.</option>
+            <option>Prof.</option>
+          </select>
+        </label>
+      </p>
+      <p>
+        <label>First name: <input name="firstName" /></label>
+      </p>
+      <p>
+        <label>Last name: <input name="lastName" /></label>
+      </p>
+      <p>
+        Gender :
+        <label><input type="radio" name="gender" value="male" /> Male</label>
+        <label><input type="radio" name="gender" value="female" /> Female</label>
+      </p>
+      <p>
+        <label>Email:<input type="email" name="email" /></label>
+      </p>
+      <p>
+        <label>Date of Birth:<input type="date" name="birthDate"></label>
+      </p>
+      <p>
+        <label>
+          Address :
+          <br />
+          <textarea name="address" cols="30" rows="3"></textarea>
+        </label>
+      </p>
+      <p>
+        <button type="submit">Submit</button>
+      </p>
+    </fieldset>
+  </form>
+</body>
+</html>
+```
+
+Output: 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GfG</title>
+</head>
+<body>
+  <form>
+    <fieldset>
+      <legend>Personal Details</legend>
+      <p>
+        <label>
+          Salutation
+          <br />
+          <select name="salutation">
+            <option>--None--</option>
+            <option>Mr.</option>
+            <option>Ms.</option>
+            <option>Mrs.</option>
+            <option>Dr.</option>
+            <option>Prof.</option>
+          </select>
+        </label>
+      </p>
+      <p>
+        <label>First name: <input name="firstName" /></label>
+      </p>
+      <p>
+        <label>Last name: <input name="lastName" /></label>
+      </p>
+      <p>
+        Gender :
+        <label><input type="radio" name="gender" value="male" /> Male</label>
+        <label><input type="radio" name="gender" value="female" /> Female</label>
+      </p>
+      <p>
+        <label>Email:<input type="email" name="email" /></label>
+      </p>
+      <p>
+        <label>Date of Birth:<input type="date" name="birthDate"></label>
+      </p>
+      <p>
+        <label>
+          Address :
+          <br />
+          <textarea name="address" cols="30" rows="3"></textarea>
+        </label>
+      </p>
+      <p>
+        <button type="submit">Submit</button>
+      </p>
+    </fieldset>
+  </form>
+</body>
+</html>
 
 
