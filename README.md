@@ -16,13 +16,13 @@
 - [x] Comments;
 - [x] Header tags;
 - [x] Body tags;
-- [ ] Media tags;
-- [ ] Iframe tag;
-- [ ] Adding style;
-- [ ] CSS comments;
-- [ ] Selectors;
-- [ ] CSS Properties;
-- [ ] Box Model;
-- [ ] Inline and block elements;
-- [ ] CSS Reset and CSS Normalize;
-- [ ] Responsive layout.
+- [x] Media tags;
+- [x] Iframe tag;
+- [x] Adding style;
+- [x] CSS comments;
+- [x] Selectors;
+- [x] CSS Properties;
+- [x] Box Model;
+- [x] Inline and block elements;
+- [x] CSS Reset and CSS Normalize;
+- [x] Responsive layout.
