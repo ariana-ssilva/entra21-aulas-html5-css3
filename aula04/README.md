@@ -9,9 +9,9 @@
 > Examples of semantic elements: `<form>`, `<table>`, and `<article>` - Clearly defines its content.
 
 <br>
-
-![Semantic Elements](/aula04/img/semantica.jpeg)
-
+<center>
+<img src="../aula04/img/semantica.jpeg" style="height: 250px">
+</center>
 <br>
 
 ## `<nav>` tag
