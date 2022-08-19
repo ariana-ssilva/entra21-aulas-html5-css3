@@ -2,7 +2,7 @@
 > Bootstrap is a powerful, feature-packed frontend toolkit. Build anything—from prototype to production—in minutes.
 
 <center>
-<img src="../img/bootstrap.png">
+<img src="./img/bootstrap.png">
 </center>
 <br>
 
@@ -10,7 +10,7 @@
 > Containers are the most basic layout element in Bootstrap and are required when using our default grid system. Containers are used to contain, pad, and (sometimes) center the content within them. While containers can be nested, most layouts do not require a nested container.
 
 <center>
-<img src="../img/container.png">
+<img src="./img/container.png">
 </center>
 <br>
 
@@ -48,7 +48,7 @@ Click here to more informations about [Bootstrap Container.](https://getbootstra
 Output: 
 <br>
 <center>
-<img src="../img/grid-system.png">
+<img src="./img/grid-system.png">
 </center>
 <br>
 
@@ -90,7 +90,7 @@ Example:
 Output: 
 <br>
 <center>
-<img src="../img/alert.png">
+<img src="./img/alert.png">
 </center>
 <br>
 
@@ -113,7 +113,7 @@ Example:
 Ouput:
 <br>
 <center>
-<img src="../img/badges.png">
+<img src="./img/badges.png">
 </center>
 <br>
 
@@ -141,7 +141,7 @@ Example:
 Ouput:
 <br>
 <center>
-<img src="../img/buttons.png">
+<img src="./img/buttons.png">
 </center>
 <br>
 
@@ -167,7 +167,7 @@ Example:
 Ouput:
 <br>
 <center>
-<img src="../img/card.png">
+<img src="./img/card.png">
 </center>
 <br>
 
@@ -191,7 +191,7 @@ Heading Example:
 Ouput:
 <br>
 <center>
-<img src="../img/heading.png">
+<img src="./img/heading.png">
 </center>
 <br>
 
@@ -208,7 +208,7 @@ Display Example:
 Ouput:
 <br>
 <center>
-<img src="../img/display.png">
+<img src="./img/display.png">
 </center>
 <br>
 
@@ -233,7 +233,7 @@ Example:
 Ouput:
 <br>
 <center>
-<img src="../img/list-group.png">
+<img src="./img/list-group.png">
 </center>
 <br>
 
@@ -252,7 +252,7 @@ Example:
 Ouput:
 <br>
 <center>
-<img src="../img/image.png">
+<img src="./img/image.png">
 </center>
 <br>
 
@@ -299,20 +299,20 @@ Example:
 Ouput:
 <br>
 <center>
-<img src="../img/table-default.png">
+<img src="./img/table-default.png">
 </center>
 <br>
 
 ### Variants
 <br>
 <center>
-<img src="../img/table-colored.png">
+<img src="./img/table-colored.png">
 </center>
 <br>
 
 <br>
 <center>
-<img src="../img/table-hover.gif">
+<img src="./img/table-hover.gif">
 </center>
 <br>
 
