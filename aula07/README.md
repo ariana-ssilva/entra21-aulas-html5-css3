@@ -2,7 +2,7 @@
 
 - [x] Create a page using bootstrap (Home, CV, Contact);
 - [x] Global CSS file;
-- [x] Usse semantic;
+- [x] Use semantic;
 
 <br>
 <center>
